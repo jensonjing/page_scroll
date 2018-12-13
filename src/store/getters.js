@@ -1,0 +1,1 @@
+export const currentPathIndex = state => state.currentPathIndex
